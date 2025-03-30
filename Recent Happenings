@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recent Happenings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Recent Happenings in Technlogy</h1>
+        <h2>Nova-3 Medical AI</h2>
+        <p>With its advanced text-to-speech (TTS) and speech-to-speech (STS) capabilities, Nova-3 captures specialized medical terms, <br>
+           acronyms, and clinical jargon, even when speakers are away from microphones and other recording devices. This AI model <br>
+           integrates medical transcriptions with clinical workflows and electronic health records.
+        </p>
+        <h2>James Webb Space Telescope (JWST)</h2>
+        <p>The JWST was launched on December 25, 2021. It studies the history of our Universe, ranging from the first luminous glows <br>
+           after the Big Bang, to the formation of solar systems capable of supporting life on planets like Earth. It does not orbit <br>
+           around the Earth like the Hubble Space Telescope, it orbits the Sun 1.5 million kilometers (1 million miles) away from the <br>
+           Earth.
+        </p>
+    </div>
+</body>
+</html>
